@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nikita
+- 👀 I’m interested in iOS Development 
+- 🌱 I’m currently learning Swift language
